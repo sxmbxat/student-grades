@@ -1,4 +1,4 @@
-Predicting Student Grades using Python 
+# Predicting Student Grades using Machine Learning models 
 
 Using the standard Data Science pipeline, I developed a Machine Learning model to predict student grades. 
 
